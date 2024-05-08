@@ -1,17 +1,17 @@
-Updated Date: March 30, 2024
+Updated Date: May 7th 2024
 
-NocoBase License Agreement
+Rantir, Inc. License Agreement
 
-NocoBase Co., Ltd. ("The Company") https://www.nocobase.com/ issues this License Agreement ("Agreement") to you. You, as an individual or a company ("User"), will be deemed to voluntarily accept all terms of this Agreement by using NocoBase (including but not limited to obtaining NocoBase source code or installation package in any form, installing and using NocoBase, purchasing NocoBase commercial license and services, purchasing NocoBase commercial plugins). If the User does not agree to any term of this Agreement, or cannot accurately understand our interpretation of the relevant terms, please stop using it immediately.
+Rantir, Inc. ("The Company") https://www.Rantir.com/ issues this License Agreement ("Agreement") to you. You, as an individual or a company ("User"), will be deemed to voluntarily accept all terms of this Agreement by using Rantir Cloud (including but not limited to obtaining Rantir Cloud source code or installation package in any form, installing and using Rantir Cloud, purchasing Rantir Cloud commercial license and services, purchasing Rantir Cloud commercial plugins). If the User does not agree to any term of this Agreement, or cannot accurately understand our interpretation of the relevant terms, please stop using it immediately.
 
-This Agreement applies to any use, quotation, contract, invoice, and all software delivered by the Company. The User and the Company or NocoBase's agents can no longer sign a separate license agreement for the sale and delivery of the software.
+This Agreement applies to any use, quotation, contract, invoice, and all software delivered by the Company. The User and the Company or Rantir Cloud's agents can no longer sign a separate license agreement for the sale and delivery of the software.
 
 The Company reserves the right to formulate and modify this Agreement from time to time as needed. If there are changes, the Company will announce them in the form of website announcements, without further individual notification. The changed Agreement will automatically take effect once it is announced, becoming part of this Agreement.
 
 ==============
 1. Definitions
 ==============
-1.1 "Software" refers to the NocoBase kernel and plugins placed in the same code repository as the kernel, including their source code, installation packages, images, and all their modifications, updates, and upgrades.
+1.1 "Software" refers to the Rantir Cloud kernel and plugins placed in the same code repository as the kernel, including their source code, installation packages, images, and all their modifications, updates, and upgrades.
 
 1.2 "Plugin Market" refers to the market provided by the Company for selling Software plugins and solutions.
 
@@ -39,13 +39,13 @@ Except for Third-Party Open Source Software, the Company owns all copyrights, tr
 
 3.2 The Company shall not be liable for any direct, indirect, special, incidental, or consequential damages (including but not limited to loss of profits, business interruption, data loss, or business information disclosure) caused by the User's use of the Software and Commercial Plugins, even if it has been previously informed of the possibility of such damages.
 
+3.3 Under zero circumstances can you resell, convert to a SaaS application or modify the source code, rebuild, use any plugins, or any code into a commericial-based application or resell this license. There are coded-security protections that we will identify any user or project fork that ultimately will bug the provisioned (copied) code. Please contact us at hello@rantir.com for an enterprise license should you decide to self-host an instance of this project. Should you choose to use this in a commericial setting, you will be directed to our royalty partner and can make a legal agreement that third-party. 
+
 ===============
 4. License Type
 ===============
 
-4.1 The Software uses a dual license type of AGPL-3.0 Open Source License https://www.gnu.org/licenses/agpl-3..en.htm and Commercial License.
-
-4.2 Commercial Plugins use Commercial License.
+4.1 The Software uses AGPL-3.0 Open Source License https://www.gnu.org/licenses/agpl-3..en.htm. It is not for Commercial License purposed and cannot be used in any type of Commericial use-cases, nor can be resold.  
 
 ================================================
 5. Rights and Obligations of Open Source License
@@ -57,9 +57,9 @@ Except for Third-Party Open Source Software, the Company owns all copyrights, tr
 
 5.3 Outside the Plugin Market, changes and plugins to the Software developed by User or third parties, and third-party software integrated with the Software must all be open sourced under the AGPL-3.0 license.
 
-5.4 It is not allowed to remove or change the brand, name, link, version number, license, and other information about NocoBase on the Software interface, except for the main LOGO in the upper left corner of the page.
+5.4 It is not allowed to remove or change the brand, name, link, version number, license, and other information about Rantir Cloud on the Software interface, except for the main LOGO in the upper left corner of the page.
 
-5.5 It is not allowed to remove or change all intellectual property statements about NocoBase in the code.
+5.5 It is not allowed to remove or change all intellectual property statements about Rantir Cloud in the code.
 
 5.6 It is not allowed to provide any form of no-code, zero-code, low-code platform SaaS products to the public using the original or modified Software.
 
@@ -79,7 +79,7 @@ Except for Third-Party Open Source Software, the Company owns all copyrights, tr
 
 6.5 Changes and plugins to the Software, and applications integrated with the Software do not need to be open sourced.
 
-6.6 Can remove or change the brand, name, link, version number, license, and other information about NocoBase on the Software interface.
+6.6 Can remove or change the brand, name, link, version number, license, and other information about Rantir Cloud on the Software interface.
 
 6.7 Can sell plugins developed for Software in the Plugin Market or on User’s own website.
 
@@ -93,7 +93,7 @@ Except for Third-Party Open Source Software, the Company owns all copyrights, tr
 7. Obligations of Commercial License
 ====================================
 
-7.1 It is not allowed to remove or change all intellectual property statements about NocoBase in the code.
+7.1 It is not allowed to remove or change all intellectual property statements about Rantir Cloud in the code.
 
 7.2 It is not allowed to sell, transfer, lease, share, or give away the Commercial License.
 
